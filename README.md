@@ -1,2 +1,2 @@
-# app-backendd
-app-backendd
+# app-backend
+Repositorio para el backend de la aplicación
